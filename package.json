@@ -1,0 +1,22 @@
+{
+  "name": "fs-36backend",
+  "version": "1.0.0",
+  "description": "a basic app to deploy",
+  "keywords": [],
+  "license": "ISC",
+  "author": "sonam kashyap",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^18.0.5",
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
